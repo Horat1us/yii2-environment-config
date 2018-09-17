@@ -1,7 +1,7 @@
 # Yii2 Environment Config
 [![Latest Stable Version](https://poser.pugx.org/horat1us/yii2-environment-config/v/stable.png)](https://packagist.org/packages/horat1us/yii2-environment-config)
 [![Total Downloads](https://poser.pugx.org/horat1us/yii2-environment-config/downloads.png)](https://packagist.org/packages/horat1us/yii2-environment-config)
-[![Build Status](https://travis-ci.org/Horat1us/yii2-environment-config.svg?branch=master)](https://travis-ci.org/horat1us/yii2-environment-config)
+[![Build Status](https://travis-ci.org/Horat1us/yii2-environment-config.svg?branch=master)](https://travis-ci.org/Horat1us/yii2-environment-config)
 [![codecov](https://codecov.io/gh/horat1us/yii2-environment-config/branch/master/graph/badge.svg)](https://codecov.io/gh/horat1us/yii2-environment-config)
 
 Main purpose of this package is to integrate 
