@@ -76,7 +76,7 @@ class ConfigureBehavior extends base\Behavior
         return $this->keyPrefix;
     }
 
-    protected function setEnvironmentKeyPrefix(base\Component $component = null): void
+    protected function setEnvironmentKeyPrefix(base\Component $component): void
     {
         /** @noinspection PhpUnhandledExceptionInspection */
         $class = new \ReflectionClass($component);
